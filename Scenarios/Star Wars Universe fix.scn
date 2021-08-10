@@ -33,7 +33,7 @@ END_MFD
 
 
 BEGIN_SHIPS
-Millennium Falcon:Millennium_Falcon
+Millennium Falcon:MFalcon
   STATUS Landed Tatooine
   BASE Mos Eisley:3
   HEADING 352.20
